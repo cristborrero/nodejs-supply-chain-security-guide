@@ -1,6 +1,11 @@
 # Node.js Supply Chain Security Guide
 
-Professional guide to secure Node.js projects using PNPM v11 and modern Supply Chain protection practices.
+> Modern hardening guide for Node.js applications using PNPM v11, secure CI/CD and dependency protection strategies.
+
+![Node.js](https://img.shields.io/badge/node.js-security-green)
+![PNPM](https://img.shields.io/badge/pnpm-v11-orange)
+![Security](https://img.shields.io/badge/supply--chain-protected-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-blue)
 
 ## Features
 
